@@ -137,6 +137,7 @@ const getStatName = (arr, minBaseStat) => {
 /* ------------------------------------------------------------------------------------------------
 CHALLENGE 8 - Stretch Goal
 
+
 Write a function named getCharactersWithoutChildren that, given the array of characters, below, uses filter to return an array of all characters without children.
 ------------------------------------------------------------------------------------------------ */
 
